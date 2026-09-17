@@ -1,0 +1,17 @@
+<svg width="880" height="210" viewBox="0 0 880 210" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="880" y2="210"><stop stop-color="#0B1020"/><stop offset=".55" stop-color="#111827"/><stop offset="1" stop-color="#17112B"/></linearGradient>
+<linearGradient id="accent" x1="120" y1="40" x2="760" y2="180"><stop stop-color="#61DAFB"/><stop offset=".5" stop-color="#A78BFA"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<style>.grid{animation:drift 12s linear infinite}.pulse{animation:pulse 2.8s ease-in-out infinite}.f1{animation:f1 5s ease-in-out infinite}.f2{animation:f2 6s ease-in-out infinite}@keyframes drift{from{transform:translateX(0)}to{transform:translateX(-80px)}}@keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}@keyframes f1{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}@keyframes f2{0%,100%{transform:translateY(0)}50%{transform:translateY(7px)}}</style>
+</defs>
+<rect width="880" height="210" rx="18" fill="url(#bg)"/>
+<g opacity=".12" class="grid"><path d="M0 35H960M0 75H960M0 115H960M0 155H960M0 195H960" stroke="#A78BFA"/><path d="M35 0V240M75 0V240M115 0V240M155 0V240M195 0V240M235 0V240M275 0V240M315 0V240M355 0V240M395 0V240M435 0V240M475 0V240M515 0V240M555 0V240M595 0V240M635 0V240M675 0V240M715 0V240M755 0V240M795 0V240M835 0V240" stroke="#61DAFB"/></g>
+<circle cx="92" cy="56" r="4" fill="#61DAFB" filter="url(#glow)" class="pulse"/><circle cx="798" cy="148" r="4" fill="#A78BFA" filter="url(#glow)" class="pulse"/>
+<g class="f1"><rect x="675" y="38" width="138" height="70" rx="12" fill="#0B1020" stroke="#334155"/><text x="691" y="61" fill="#94A3B8" font-family="monospace" font-size="12">$ whoami</text><text x="691" y="84" fill="#E2E8F0" font-family="monospace" font-size="13">full_stack_ai</text></g>
+<g class="f2"><rect x="64" y="139" width="188" height="42" rx="10" fill="#0B1020" stroke="#334155"/><text x="80" y="165" fill="#67E8F9" font-family="monospace" font-size="12">const goal = "build";</text></g>
+<text x="440" y="88" text-anchor="middle" fill="#F8FAFC" font-family="Arial,sans-serif" font-size="34" font-weight="700">Hi, I'm Drona 👋</text>
+<text x="440" y="121" text-anchor="middle" fill="url(#accent)" font-family="Arial,sans-serif" font-size="17" font-weight="600">Full Stack Developer • AI Engineering Enthusiast</text>
+<text x="440" y="148" text-anchor="middle" fill="#94A3B8" font-family="monospace" font-size="12">MERN • LLMs • AI Agents • Multimodal AI • RAG</text>
+<path d="M310 177H570" stroke="url(#accent)" stroke-width="2" stroke-linecap="round"><animate attributeName="stroke-dasharray" values="0 280;130 150;280 0;0 280" dur="4s" repeatCount="indefinite"/></path>
+</svg>
