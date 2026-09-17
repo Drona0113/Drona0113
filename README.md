@@ -180,14 +180,21 @@ The next stage will explore:
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Drona0113&show_icons=true&hide_border=true" alt="Drona's GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drona0113&layout=compact&hide_border=true" alt="Drona's top languages"/>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./dist/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./dist/github-snake.svg"
+    />
+    <img
+      src="./dist/github-snake.svg"
+      alt="GitHub contribution activity"
+    />
+  </picture>
 </p>
-
-<p align="center">
-  <img width="720" src="https://github-readme-activity-graph.vercel.app/graph?username=Drona0113&hide_border=true" alt="Drona's GitHub activity graph"/>
-</p>
-
 ---
 
 ## 🤝 Let's Connect
