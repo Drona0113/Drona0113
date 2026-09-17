@@ -1,10 +1,29 @@
+<p align="center">
+  <img src="./assets/header.svg" alt="Drona — Full Stack Developer and AI Engineering Enthusiast" width="880"/>
+</p>
+
+<p align="center">
+  <img src="./assets/now.svg" alt="Currently building MangaCraft and learning AI Engineering" width="720"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="22"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" height="22"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/AI%20Engineering-412991?style=flat&logo=openai&logoColor=white" height="22"/>
+</p>
+
+---
+
 # Hi, I'm Drona 👋
 
 ### B.Tech CSE Graduate | MERN Stack Developer | AI Engineering Enthusiast
 
 I'm a Computer Science graduate interested in building **full-stack applications and AI-powered systems**.
 
-I started with web development and the MERN stack, building applications that solve practical problems. I'm now expanding into **AI Engineering, Generative AI, LLM applications, multimodal AI, and AI agents**.
+I started with web development and the MERN stack, building applications around practical problems. I'm now expanding into **AI Engineering, Generative AI, LLM applications, multimodal AI, and AI agents**.
 
 My goal is to combine strong full-stack development with AI to build useful, production-oriented applications.
 
@@ -18,11 +37,11 @@ A MERN-based agricultural marketplace designed to connect farmers, suppliers, an
 
 **Highlights**
 
-* Farmer, Supplier, Consumer, and Admin roles
-* JWT authentication and role-based access
-* Razorpay payment integration
-* Multilingual support across 6 languages
-* Admin verification and audit logging
+- Farmer, Supplier, Consumer, and Admin roles
+- JWT authentication and role-based access
+- Razorpay payment integration
+- Multilingual support across 6 languages
+- Admin verification and audit logging
 
 **Tech:** `React.js` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT`
 
@@ -34,27 +53,27 @@ A MERN-based agricultural marketplace designed to connect farmers, suppliers, an
 
 An **AI Manga Panel Assistant** designed to help aspiring manga artists work with their panels and creative projects.
 
-The project evolved from a conversational AI assistant into an AI agent capable of working with project context, manga panels, memories, multimodal inputs, and generated references.
+The project evolved from a conversational AI assistant into an AI agent capable of working with project context, memories, manga panels, multimodal inputs, and generated references.
 
 **V1 — Conversational AI**
 
-* LLM-powered chat
-* Conversation history
-* System prompting
-* Gradio interface
+- LLM-powered chat
+- Conversation history
+- System prompting
+- Gradio interface
 
 **V2 — AI Agent + Project Intelligence**
 
-* LLM tool calling
-* Project Memory
-* Asset Memory
-* Panel analysis
-* Composition analysis
-* Multimodal understanding
-* AI-generated references
-* Multiple conversations per project
-* SQLite persistence
-* Project-specific context
+- LLM tool calling
+- Project Memory
+- Asset Memory
+- Panel analysis
+- Composition analysis
+- Multimodal understanding
+- AI-generated references
+- Multiple conversations per project
+- SQLite persistence
+- Project-specific context
 
 **Tech:** `Python` `Gradio` `SQLite` `LLM APIs` `OpenRouter` `Hugging Face`
 
@@ -68,11 +87,11 @@ A MERN application focused on documenting and exploring the **history and cultur
 
 **Highlights**
 
-* Authentication and role-based access
-* Village management
-* Search and filtering
-* Reviews and ratings
-* Maps and location-based information
+- Authentication and role-based access
+- Village management
+- Search and filtering
+- Reviews and ratings
+- Maps and location-based information
 
 **Tech:** `React.js` `Node.js` `Express.js` `MongoDB` `Mongoose`
 
@@ -114,10 +133,9 @@ A machine-learning project using **Support Vector Regression (SVR)** to predict 
 
 ---
 
-### 🧠 DSA
+## 🧠 DSA
 
-Currently practicing **Data Structures & Algorithms in Java** using the
-**Striver A2Z DSA Course / Sheet by Take U Forward**.
+Currently practicing **Data Structures & Algorithms in Java** using the **Striver A2Z DSA Course / Sheet by Take U Forward**.
 
 ---
 
@@ -126,7 +144,7 @@ Currently practicing **Data Structures & Algorithms in Java** using the
 I'm expanding my knowledge toward **AI Engineering and production full-stack development**.
 
 - Data Structures & Algorithms in Java — Striver A2Z
-- Python & it's libraries
+- Python and its libraries
 - AI Engineering
 - LLM application development
 - Generative AI
@@ -149,23 +167,36 @@ At the same time, I'm building toward a long-term career in **AI Engineering**, 
 
 ## ⚡ Currently Building
 
-### MangaCraft V3
+### MangaCraft V2 → V3
 
 Taking MangaCraft from its V2 AI-agent foundation toward a **production-oriented full-stack AI application**.
 
 The next stage will explore:
 
-`React` · `FastAPI` · `MongoDB` · `Authentication` · `RAG` · `Embeddings` · `Vector Search` · `Multi-user Architecture`
+`React` · `FastAPI` · `PostgreSQL` · `Authentication` · `RAG` · `Embeddings` · `Vector Search` · `Multi-user Architecture`
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Drona0113&show_icons=true&hide_border=true" alt="Drona's GitHub stats"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drona0113&layout=compact&hide_border=true" alt="Drona's top languages"/>
+</p>
+
+<p align="center">
+  <img width="720" src="https://github-readme-activity-graph.vercel.app/graph?username=Drona0113&hide_border=true" alt="Drona's GitHub activity graph"/>
+</p>
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm interested in connecting with developers, engineers, and people building interesting products with **web technologies and AI**.
+I'm interested in connecting with developers, engineers, and people building interesting products with web technologies and AI.
 
-* 💼 LinkedIn: **https://www.linkedin.com/in/kaja-drona-venkata-sai-gopinadh-443986269/**
-* 📧 Email: **drona8978@gmail.com**
-* 💻 GitHub: [@Drona0113](https://github.com/Drona0113)
+- 💼 LinkedIn: [kaja-drona-venkata-sai-gopinadh](https://www.linkedin.com/in/kaja-drona-venkata-sai-gopinadh-443986269/)
+- 📧 Email: `drona8978@gmail.com`
+- 💻 GitHub: [@Drona0113](https://github.com/Drona0113)
 
 ---
 
