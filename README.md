@@ -29,83 +29,28 @@ My goal is to combine strong full-stack development with AI to build useful, pro
 
 ---
 
-## 🚀 Featured Projects
-
-### 🛒 AgriMart
-
-A MERN-based agricultural marketplace designed to connect farmers, suppliers, and consumers.
-
-**Highlights**
-
-- Farmer, Supplier, Consumer, and Admin roles
-- JWT authentication and role-based access
-- Razorpay payment integration
-- Multilingual support across 6 languages
-- Admin verification and audit logging
-
-**Tech:** `React.js` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT`
-
-[🔗 View AgriMart](https://github.com/Drona0113/AgriMart)
-
----
+## 🚀 What I'm Building
 
 ### 🎨 MangaCraft
 
-An **AI Manga Panel Assistant** designed to help aspiring manga artists work with their panels and creative projects.
+An **AI-powered workspace for manga creation**, evolving from a conversational assistant into a full-stack AI application.
 
-The project evolved from a conversational AI assistant into an AI agent capable of working with project context, memories, manga panels, multimodal inputs, and generated references.
+Currently moving from the V2 AI-agent foundation toward a **multi-user, production-oriented architecture**, exploring:
 
-**V1 — Conversational AI**
+`AI Agents` · `Tool Calling` · `Project Memory` · `Multimodal AI` · `RAG` · `Embeddings` · `Vector Search`
 
-- LLM-powered chat
-- Conversation history
-- System prompting
-- Gradio interface
-
-**V2 — AI Agent + Project Intelligence**
-
-- LLM tool calling
-- Project Memory
-- Asset Memory
-- Panel analysis
-- Composition analysis
-- Multimodal understanding
-- AI-generated references
-- Multiple conversations per project
-- SQLite persistence
-- Project-specific context
-
-**Tech:** `Python` `Gradio` `SQLite` `LLM APIs` `OpenRouter` `Hugging Face`
-
-[🔗 View MangaCraft](https://github.com/Drona0113/Manga-Craft)
+🔗 [GitHub Repository](https://github.com/Drona0113/Manga-Craft)
 
 ---
 
-### 🏘️ Grama Charithra
+## 📌 Selected Projects
 
-A MERN application focused on documenting and exploring the **history and cultural heritage of villages in Andhra Pradesh**.
-
-**Highlights**
-
-- Authentication and role-based access
-- Village management
-- Search and filtering
-- Reviews and ratings
-- Maps and location-based information
-
-**Tech:** `React.js` `Node.js` `Express.js` `MongoDB` `Mongoose`
-
-[🔗 View Grama Charithra](https://github.com/Drona0113/Gramacharitra-dyamic)
-
----
-
-### 📊 Crime Count Prediction
-
-A machine-learning project using **Support Vector Regression (SVR)** to predict crime counts in India and visualize the results.
-
-**Tech:** `Python` `Machine Learning` `SVR` `Data Visualization`
-
-[🔗 View Project](https://github.com/Drona0113/Crime-Count-Prediction-using-SVR)
+| Project                       | Description                                                                                                             | Links                                                                                                                                         |
+| ----------------------------- | ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🛒 **AgriMart**               | Multi-role agricultural marketplace with authentication, RBAC, payments, multilingual support, and audit logging.       | [GitHub](https://github.com/Drona0113/AgriMart) · [Live Demo](https://agri-mart-orcin.vercel.app)                                             |
+| 🏘️ **Grama Charithra**       | Digital archive for documenting and exploring the history and cultural heritage of villages in Andhra Pradesh.          | [GitHub](https://github.com/Drona0113/Gramacharitra-dyamic)                                                                                   |
+| 📊 **Crime Count Prediction** | Machine-learning application using Support Vector Regression to predict crime counts and visualize the results.         | [GitHub](https://github.com/Drona0113/Crime-Count-Prediction-using-SVR) · [Live Demo](https://crime-count-prediction-using-svr.streamlit.app) |
+| 🎨 **MangaCraft**             | AI manga assistant exploring project memory, AI agents, multimodal analysis, tool calling, and AI-generated references. | [GitHub](https://github.com/Drona0113/Manga-Craft)                                                                                            |
 
 ---
 
